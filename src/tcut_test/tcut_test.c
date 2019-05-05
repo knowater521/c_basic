@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../tcut.h"
+#include "tcut.h"
 
 int nr_tests = 0;
 int foo = 7;
